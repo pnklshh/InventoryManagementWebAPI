@@ -1,0 +1,133 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using InventoryManagementWebAPI.DAL;
+using InventoryManagementWebAPI.Models;
+using MongoDB.Driver;
+using MongoDB.Driver.Core;
+using MongoDB.Bson;
+using Newtonsoft.Json;
+using System.Web.Http;
+using System.Data.Entity;
+using System.Net;
+using System.Net.Mail;
+//using System.Web.Mail;
+
+namespace InventoryManagementWebAPI.Controllers
+{
+    public class CommonController : ApiController
+    {
+        MongoConnection connection = new MongoConnection();
+        IMongoDatabase db;
+        OutputFormat returnString = new OutputFormat();
+
+        // GET: Common
+        public int GetNextSequenceValue(string sequenceName, IMongoDatabase database)
+        {
+            var collection = database.GetCollection<Sequence>("Sequence");
+            var filter = Builders<Sequence>.Filter.Eq(a => a.Name, sequenceName);
+            var update = Builders<Sequence>.Update.Inc(a => a.Value, 1);
+            var sequence = collection.FindOneAndUpdate(filter, update);
+            
+            if (sequence == null)
+            {
+                Sequence seq = new Sequence();
+                seq.Name = sequenceName;
+                seq.Value = 1;
+                collection.InsertOne(seq);
+                return seq.Value;
+            }
+            return sequence.Value + 1;
+        }
+
+        
+
+        // GET: api/Common
+        [HttpGet]
+        public string ValidateLogin(string emailId, string password)
+        {
+            db = connection.database;
+            returnString.SuccessMessage = "";
+            returnString.ErrorMessage = "";
+            returnString.AppData = "";
+
+            List<Engineer> engineerList = new List<Engineer>();
+
+            try
+            {
+                var collection = db.GetCollection<Engineer>("Engineer");
+
+                if(collection.Find(x => x.EmailID == emailId && x.Password == password).CountDocuments() == 1)
+                {
+                    var engineer = collection.Find(x => x.EmailID == emailId && x.Password == password).FirstOrDefault();
+                    returnString.SuccessMessage = "Data fetched successfully";
+                    returnString.AppData = JsonConvert.SerializeObject(engineer);
+                }
+                else if (collection.Find(x => x.EmailID == emailId).CountDocuments() == 0)
+                {
+                    returnString.ErrorMessage = "EmailID doesnot exist";
+                }
+                else if(collection.Find(x => x.EmailID == emailId && x.Password != password).CountDocuments() == 1)
+                {
+                    returnString.ErrorMessage = "Password invalid";
+                }
+            }
+            catch (Exception ex)
+            {
+                returnString.ErrorMessage = ex.Message;
+            }
+
+            return JsonConvert.SerializeObject(returnString);
+        }
+
+        [HttpGet]
+        public string SendEmail(string emailId)
+        {
+            db = connection.database;
+            returnString.SuccessMessage = "";
+            returnString.ErrorMessage = "";
+            returnString.AppData = "";
+
+            try
+            {
+                using (MailMessage mail = new MailMessage())
+                {
+                    mail.From = new MailAddress("pnklshh1416@gmail.com");
+                    mail.To.Add("pnklshh1614@gmail.com");
+                    mail.Subject = "Test mail";
+                    mail.Body = "Hi there !";
+                    mail.IsBodyHtml = true;
+                    //mail.Attachments.Add(new Attachment("D:\\TestFile.txt"));//--Uncomment this to send any attachment  
+                    using (SmtpClient smtp = new SmtpClient("smtp.gmail.com", 25))
+                    {
+                        smtp.Credentials = new NetworkCredential("pnklshh1416@gmail.com", "baroda1995");
+                        smtp.EnableSsl = true;
+                        smtp.Send(mail);
+                        returnString.SuccessMessage = "Mail sent successfully";
+                    }
+
+                }
+
+                //MailMessage Msg = new System.Web.Mail.MailMessage();
+                //// Sender e-mail address.
+                //Msg.From = "pnklshh1416@gmail.com";
+                //// Recipient e-mail address.
+                //Msg.To = "pnklshh1614@gmail.com";
+                //Msg.Subject = "Test mail";
+                //Msg.Body = "Hi there !";
+                //// your remote SMTP server IP.
+                //SmtpMail.SmtpServer = "192.168.1.14";//your ip address
+                //SmtpMail.Send(Msg);
+                //returnString.SuccessMessage = "Mail sent successfully";
+
+            }
+            catch (Exception ex)
+            {
+                returnString.ErrorMessage = ex.Message;
+            }
+
+            return JsonConvert.SerializeObject(returnString);
+        }
+    }
+}
