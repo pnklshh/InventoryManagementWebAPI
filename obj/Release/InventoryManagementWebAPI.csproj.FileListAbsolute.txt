@@ -1,0 +1,210 @@
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\ApplicationInsights.config
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\roslyn\csc.exe
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\roslyn\vbc.exe
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\InventoryManagementWebAPI.dll.config
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\InventoryManagementWebAPI.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\InventoryManagementWebAPI.pdb
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Antlr3.Runtime.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\EntityFramework.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Google.Protobuf.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.AI.Web.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.Owin.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\MongoDB.Bson.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\MongoDB.Driver.Core.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\MongoDB.Driver.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\MySql.Data.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Newtonsoft.Json.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Owin.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\System.Web.Cors.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\System.Web.Helpers.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\System.Web.Http.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\System.Web.Http.Owin.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\System.Web.Mvc.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\System.Web.Optimization.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\System.Web.Razor.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\System.Web.WebPages.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\WebGrease.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Google.Protobuf.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.AI.Web.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\MongoDB.Bson.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\MongoDB.Driver.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\MongoDB.Driver.Core.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\MySql.Data.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Newtonsoft.Json.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\System.Web.Http.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\System.Web.Helpers.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\System.Web.Mvc.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\System.Web.Optimization.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\System.Web.Razor.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\System.Web.WebPages.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\EntityFramework.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.Owin.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\bin\System.Web.Http.Owin.xml
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\obj\Release\InventoryManagementWebAPI.csprojResolveAssemblyReference.cache
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\obj\Release\InventoryManagementWebAPI.dll
+C:\Users\PankilNShah\Documents\Visual Studio 2015\Projects\InventoryManagement\InventoryManagementWebAPI\obj\Release\InventoryManagementWebAPI.pdb
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\ApplicationInsights.config
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\roslyn\csc.exe
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\roslyn\vbc.exe
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\roslyn\VBCSCompiler.exe
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\InventoryManagementWebAPI.dll.config
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\InventoryManagementWebAPI.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\InventoryManagementWebAPI.pdb
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Antlr3.Runtime.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\EntityFramework.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\EntityFramework.SqlServer.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Google.Protobuf.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.AI.Web.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.ApplicationInsights.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.Owin.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.Owin.Security.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.Owin.Security.Google.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\MongoDB.Bson.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\MongoDB.Driver.Core.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\MongoDB.Driver.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\MySql.Data.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Newtonsoft.Json.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Owin.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\System.Net.Http.Formatting.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\System.Web.Cors.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\System.Web.Helpers.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\System.Web.Http.Cors.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\System.Web.Http.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\System.Web.Http.Owin.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\System.Web.Http.WebHost.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\System.Web.Mvc.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\System.Web.Optimization.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\System.Web.Razor.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\System.Web.WebPages.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\System.Web.WebPages.Razor.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\WebGrease.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\DnsClient.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Google.Protobuf.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.AI.Web.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.ApplicationInsights.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\MongoDB.Bson.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\MongoDB.Driver.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\MongoDB.Driver.Core.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\MySql.Data.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Newtonsoft.Json.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\System.Net.Http.Formatting.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\System.Web.Http.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\System.Web.Http.Cors.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\System.Web.Helpers.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\System.Web.Http.WebHost.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\System.Web.Mvc.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\System.Web.Optimization.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\System.Web.Razor.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\System.Web.WebPages.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\System.Web.WebPages.Razor.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Antlr3.Runtime.pdb
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\EntityFramework.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\EntityFramework.SqlServer.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.Owin.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.Owin.Security.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.Owin.Security.Google.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\bin\System.Web.Http.Owin.xml
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\obj\Release\InventoryManagementWebAPI.csproj.CoreCompileInputs.cache
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\obj\Release\InventoryManagementWebAPI.csproj.CopyComplete
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\obj\Release\InventoryManagementWebAPI.dll
+D:\InventoryManagement\Source Code\InventoryManagementWebAPI\obj\Release\InventoryManagementWebAPI.pdb

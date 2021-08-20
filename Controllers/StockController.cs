@@ -34,66 +34,28 @@ namespace InventoryManagementWebAPI.Controllers
         
         // GET: api/Stock
         [HttpGet]
-        public string GetAllStocks()
+        public string GetAllStocks(string itemname, string cityname, string challannumber)
         {
-            //connection=db.connection;
             db = connection.database;
             returnString.SuccessMessage = "";
             returnString.ErrorMessage = "";
             returnString.AppData = "";
 
-            //string query = "select * from stock";
             List<Stock> stockList = new List<Stock>();
 
             try
             {
-                //connection.Open();
-
-                //MySqlCommand cmd = new MySqlCommand(query, connection);
-                //MySqlDataReader dataReader = cmd.ExecuteReader();
-
-                //while (dataReader.Read())
-                //{
-                //    Stock stock = new Stock();
-                //    stock.ItemName = dataReader.GetString("item_name");
-                //    stock.Quantity = dataReader.GetInt32("quantity");
-                //    stock.Defective = dataReader.GetString("defective");
-                //    stock.Dead = dataReader.GetString("dead");
-                //    stock.Date = dataReader.GetDateTime("date");
-                //    stock.Place = dataReader.GetString("place");
-                //    stock.ChallanNumber = dataReader.GetString("challan_no");
-                //    stockList.Add(stock);
-                //}
-                //dataReader.Close();
-                //dataReader.Dispose();
-                //cmd.Dispose();
-                //connection.Close();
-
                 var collection = db.GetCollection<Stock>("Stock");
-                stockList = collection.Find(FilterDefinition<Stock>.Empty).ToList();
-
-                //var itemCollection = db.GetCollection<Item>("Item");
-                //var itemList = itemCollection.Find(FilterDefinition<Item>.Empty).ToList();
-
-                //var cityCollection = db.GetCollection<City>("City");
-                //var cityList = cityCollection.Find(FilterDefinition<City>.Empty).ToList();
-
-                //stockList = (from stock in stocks
-                //            join item in itemList
-                //            on stock.Item.ItemID equals item.ItemID
-                //            join city in cityList
-                //            on stock.City.CityID equals city.CityID
-                //            select new Stock
-                //            {
-                //                StockID = stock.StockID,
-                //                Item = item,
-                //                City = city,
-                //                Quantity = stock.Quantity,
-                //                Defective = stock.Defective,
-                //                Dead = stock.Dead,
-                //                ChallanNumber = stock.ChallanNumber,
-                //                Date = stock.Date
-                //            }).ToList();
+                var filter = FilterDefinition<Stock>.Empty;
+                if (itemname != null)
+                    filter &= Builders<Stock>.Filter.Eq(a => a.Item.ItemName, itemname);
+                if(cityname != null)
+                    filter &= Builders<Stock>.Filter.Eq(a => a.City.CityName, cityname);
+                if(challannumber != null)
+                    filter &= Builders<Stock>.Filter.Eq(a => a.ChallanNumber, challannumber);
+                
+                stockList = collection.Find(filter).ToList();
+                //stockList = collection.Find(FilterDefinition<Stock>.Empty).ToList();
 
                 returnString.SuccessMessage = "Data fetched successfully";
                 returnString.AppData = JsonConvert.SerializeObject(stockList);
